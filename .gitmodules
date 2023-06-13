@@ -1,0 +1,3 @@
+[submodule "reasoning-experiment"]
+	path = reasoning-experiment
+	url = git@github.com:benpry/reasoning-experiment.git
