@@ -1,3 +1,6 @@
 [submodule "reasoning-experiment"]
 	path = reasoning-experiment
 	url = git@github.com:benpry/reasoning-experiment.git
+[submodule "reasoning-experiment-verbal-protocol"]
+	path = reasoning-experiment-verbal-protocol
+	url = git@github.com:benpry/reasoning-experiment-verbal-protocol.git
