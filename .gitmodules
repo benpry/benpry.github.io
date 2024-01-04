@@ -4,3 +4,6 @@
 [submodule "reasoning-experiment-verbal-protocol"]
 	path = reasoning-experiment-verbal-protocol
 	url = git@github.com:benpry/reasoning-experiment-verbal-protocol.git
+[submodule "learning-experiment"]
+	path = learning-experiment
+	url = git@github.com:benpry/local-stat-learning.git
