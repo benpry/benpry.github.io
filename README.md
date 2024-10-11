@@ -1,2 +1,2 @@
-# benpry.github.io
-Hi! This is the GitHub pages website I use to host some of the online experiments I run.
+# static.cogsci.net
+Hi! I'm [Ben Prystawski](https://benprystawski.com/). This is the website where I host static cognitive science experiments (e.g. jsPsych studies).
