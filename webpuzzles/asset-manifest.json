@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/webpuzzles/static/css/main.d0011ade.css",
-    "main.js": "/webpuzzles/static/js/main.c714e1c6.js",
+    "main.js": "/webpuzzles/static/js/main.7b9da8db.js",
     "static/js/488.5ae4f00e.chunk.js": "/webpuzzles/static/js/488.5ae4f00e.chunk.js",
     "static/media/correct-solution-cropped.gif": "/webpuzzles/static/media/correct-solution-cropped.374dcefeec39a7db004e.gif",
     "static/media/incorrect-solution-cropped.gif": "/webpuzzles/static/media/incorrect-solution-cropped.92d5d981ed2457240390.gif",
     "index.html": "/webpuzzles/index.html",
     "main.d0011ade.css.map": "/webpuzzles/static/css/main.d0011ade.css.map",
-    "main.c714e1c6.js.map": "/webpuzzles/static/js/main.c714e1c6.js.map",
+    "main.7b9da8db.js.map": "/webpuzzles/static/js/main.7b9da8db.js.map",
     "488.5ae4f00e.chunk.js.map": "/webpuzzles/static/js/488.5ae4f00e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0011ade.css",
-    "static/js/main.c714e1c6.js"
+    "static/js/main.7b9da8db.js"
   ]
 }
